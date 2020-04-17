@@ -16,27 +16,7 @@
   * [目录](#--)
   * [信息资讯](#----)
     + [赵赛坡](#---)
-    + [大公司头条](#-----)
-    + [阮一峰](#---)
-    + [奔跑中的奶酪](#------)
-    + [李永乐老师](#-----)
-    + [文倩的世界周报](#-------)
-    + [可能吧](#---)
-    + [Hacker News](#hacker-news)
-    + [Stratechery by Ben Thompson](#stratechery-by-ben-thompson)
-    + [Matters](#matters)
-    + [少数派](#---)
-    + [如月中天](#----)
-    + [Solidot](#solidot)
-    + [值物志](#---)
-    + [Johns Hopkins](#johns-hopkins)
-    + [第 44 次《中国互联网络发展状况统计报告》](#--44------------------)
-    + [一天世界](#----)
-  * [工具推荐](#----)
-    + [微信小助手](#-----)
-    + [uPic(upload Picture)](#upic-upload-picture-)
-    + [隐私政策文件生成](#--------)
-    + [Crossnote 交叉笔记](#crossnote-----)
+   
   * [使用教程](#----)
     + [Telegram](#telegram)
     + [Sabrina 的万事屋](#sabrina-----)
@@ -52,11 +32,6 @@
 
  [订阅地址](https://iois.me/daily\_me\_subscribe)
 
-### 大公司头条
-
-好奇心日报出品，必属精品。宏观经济的发展、业务财报数据涨跌、知名公司人事调动、创业风投最新情况，均可以在此一网打尽，不必再去阅读被刻意解读的二手信息。一日一更。
-
-[订阅地址](https://www.mysubmail.com/subscribe/686Tt3)
 
 
 
