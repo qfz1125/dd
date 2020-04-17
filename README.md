@@ -1,42 +1,32 @@
-# dd
-
-------
-
-随着 2020 款 iPad Pro 的发布，关于「生产力」的讨论一下子热闹起来，在我的数字生活理念里，它可以被理解为「**人对信息的关系，是创造信息和影响信息并使之适应成长需要的客观力量**」，英语为「Productive Forces」，其核心在互联网时代已经由「自然」演变为「信息」，而这是我们任何人都绕不开的话题。
-
-工作的内容和意义正在迅速演变，其中有一点可以确认的是：大量无序的信息包围着我们，影响着我们的决策和行为。这里的「信息」具化起来十分多元：钉钉上领导的待办事项、微信朋友圈刷到的好友动态、Kindle 中的一段摘录、电影中的一句台词、聊天对话框中伴侣的关心等等。 它们合在一起定义了现代人。
-
-我们不断在「**接收 - 消费 - 加工 - 生产**」信息的回路中循环，任何一个环节出了问题都会导致系统失灵。显然，生理决定了人类处理信息的高度，我们需要更好的工具来 hold 此类场景。工具作为支点，帮助我们打造流水般的处理流程，实现了工作与生活的美妙平衡。
-
-以下为一则清单，包含**信息资讯、工具推荐、使用教程、生活感悟**、**每周一书**等，旨在将你引向独立思考和客观理性。我会持续更新和维护，也可以视作本人的「废话集」和 eBooksPlan 公众号文集的备份。
-
-## 目录
-
-- [废话集](#---)
+- [Paste Your Document In Here](#paste-your-document-in-here)
+  * [And a table of contents](#and-a-table-of-contents)
+  * [On the right](#on-the-right)
+- [dd](#dd)
   * [目录](#--)
   * [信息资讯](#----)
-    + [赵赛坡](#---)
-   
-  * [使用教程](#----)
-    + [Telegram](#telegram)
-    + [Sabrina 的万事屋](#sabrina-----)
+    + [地址](#--)
   * [写在最后](#----)
 
 <small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
+
 ## 信息资讯
 
-### 赵赛坡
+### 地址
 
-推荐赵先生的 Dailyio 栏目，邮件订阅即可。他持续在 AI、Cloud 产业分析以及 iPad Pro 生产力领域提供中文互联网里的优质内容。不论是视角还是文笔都属上乘的现代中文，同时关注前沿产业领域的发展，加上是还独立撰稿，每每读来总有如沐春风、豁然开朗之感。
 
- [订阅地址](https://iois.me/daily\_me\_subscribe)
+ [免翻地址](https://cl.hn32.xyz)
+
+ [免翻地址](https://cl.he32.xyz)
+
+ [免翻地址](https://cl.hu32.xyz)
 
 
 
 
 ## 写在最后
 
-如果你持续阅读以上资讯，熟练使用其中的工具，大概率会将你变成乐观的未来主义者，且直男属性上升，请谨慎订阅！
+如果你爱想继续关注DDCLUB,请加入DDCLUB电报群：[DDCLUB](https://t.me/dd1024)！
+可以访问我的链接树 [linktree](https://linktr.ee/DDCLUB)
 
-你可以通过邮箱 yaoleifly@gmail.com 来联系我。
+你可以通过邮箱 dgrddclub@gmail.com 来联系我。
